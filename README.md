@@ -88,6 +88,8 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 We conducted a correlation heatmap analysis of monthly charges, total charges, and tenure. 
 The results revealed a positive correlation, indicating that as monthly charges and tenure increase, total charges also rise.
 
+
+
 ![Correlation Heatmap of Numerical Features](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Correlation%20Heatmap%20of%20Numerical%20Features.png)
 
 ---
@@ -114,6 +116,8 @@ Let’s turn **breakups into breakthroughs!** 🚀
 ## **References** 
 https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
 https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
+
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
+
 ChatGPT for code debugging when stuck.
 
