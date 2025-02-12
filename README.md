@@ -64,7 +64,13 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 
 ❌ **H4: Senior Citizens Are Less Likely to Churn (Rejected)**  
 - **Senior citizens actually had a higher churn rate (41.68%)** than non-seniors (23.65%).  
-- **Statistically significant (p < 0.001).**  
+- **Statistically significant (p < 0.001).**
+
+![Churn Proportion for Non-Senior Citizens](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20for%20Non-Senior%20Citizens.png)
+
+![Churn Proportion for Senior Citizens](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20for%20Senior%20Citizens.png)
+
+![Churn Proportion Bar](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20Bar.png)
 
 ✅ **H5: Customers with Dependents & Partners Have Lower Churn**  
 - **Family-oriented customers churn less**, though results were **not statistically significant** (p = 1.0).  
