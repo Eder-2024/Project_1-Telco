@@ -60,7 +60,7 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 - Customers with **60–72 months tenure had the lowest churn**.  
 - **Chi-Square test confirmed a strong correlation.**
 
-https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Tenure%20vs%20Churn.png
+![Tenure vs. Churn](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Tenure%20vs%20Churn.png)
 
 ❌ **H4: Senior Citizens Are Less Likely to Churn (Rejected)**  
 - **Senior citizens actually had a higher churn rate (41.68%)** than non-seniors (23.65%).  
