@@ -73,11 +73,22 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 ![Churn Proportion Bar](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20Bar.png)
 
 ✅ **H5: Customers with Dependents & Partners Have Lower Churn**  
-- **Family-oriented customers churn less**, though results were **not statistically significant** (p = 1.0).  
+- **Family-oriented customers churn less**, though results were **not statistically significant** (p = 1.0).
+
+![Family Churn Rate](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Family%20Churn%20Rate.png) 
 
 ✅ **H6: More Additional Services = Lower Churn**  
 - Customers with **6+ additional services had the lowest churn (5.28%)**.  
 - **Chi-Square test confirmed strong correlation (p < 0.001).**  
+
+![Number of Additional ervices vs. Churn](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Number%20of%20Additional%20Services%20vs%20Churn.png)
+---
+
+## **Additional Analysis - Bonus** 
+We conducted a correlation heatmap analysis of monthly charges, total charges, and tenure. 
+The results revealed a positive correlation, indicating that as monthly charges and tenure increase, total charges also rise.
+
+![Correlation Heatmap of Numerical Features](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Correlation%20Heatmap%20of%20Numerical%20Features.png)
 
 ---
 
@@ -98,4 +109,11 @@ By analyzing churn drivers, we identified key strategies to improve retention.
 
 Let’s turn **breakups into breakthroughs!** 🚀  
 
+---
+
+## **References** 
+https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
+https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
+Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
+ChatGPT for code debugging when stuck.
 
