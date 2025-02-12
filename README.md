@@ -54,7 +54,7 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 - Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.  
 - **Pearson correlation (-0.95) supports this, though p > 0.05.**  
 
-https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Contract%20Type%20Churn%20Rate.png
+![Contract Type Churn Rate](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Contract%20Type%20Churn%20Rate.png)
 
 ✅ **H3: Longer Tenure Leads to Lower Churn**  
 - Customers with **60–72 months tenure had the lowest churn**.  
