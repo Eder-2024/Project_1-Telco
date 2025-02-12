@@ -1,3 +1,4 @@
+#
 Telecom Customer Churn Analysis
 Introduction
 Ever heard the phrase "irreconcilable differences" in a divorce? Sounds fancy, but let’s be honest—someone just wasn’t happy! Now, imagine that happening in telecom. Customers don’t always say, "It’s not you, it’s me." They just leave—no goodbye, no closure.
