@@ -17,7 +17,7 @@ Using real industry data, we analyzed key factors driving churn and developed ac
 📊 **Customer Retention:**  
 - Out of **7,000+ customers**, **27% churned**, while **73% retainedd** with the company.
 
-https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/ChurnDistribution.png 
+![ChurnDistribution](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/ChurnDistribution.png) 
 
 💰 **Customer Payment Behavior:** 
 - The **average monthly charge** was **$64.80**, with some customers paying up to **$118.75**.  
@@ -58,7 +58,9 @@ https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Contract%20Type%20Ch
 
 ✅ **H3: Longer Tenure Leads to Lower Churn**  
 - Customers with **60–72 months tenure had the lowest churn**.  
-- **Chi-Square test confirmed a strong correlation.**  
+- **Chi-Square test confirmed a strong correlation.**
+
+https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Tenure%20vs%20Churn.png
 
 ❌ **H4: Senior Citizens Are Less Likely to Churn (Rejected)**  
 - **Senior citizens actually had a higher churn rate (41.68%)** than non-seniors (23.65%).  
