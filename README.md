@@ -15,7 +15,7 @@ Using real industry data, we analyzed key factors driving churn and developed ac
 ## **Key Findings**  
 
 📊 **Customer Retention:**  
-- Out of **7,000+ customers**, **27% churned**, while **73% retainedd** with the company.
+- Out of **7,000+ customers**, **27% churned**, while **73% retained** with the company.
 
 ![ChurnDistribution](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/ChurnDistribution.png) 
 
@@ -116,8 +116,6 @@ Let’s turn **breakups into breakthroughs!** 🚀
 ## **References** 
 https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
 https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
-
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
-
 ChatGPT for code debugging when stuck.
 
