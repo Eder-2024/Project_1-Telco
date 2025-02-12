@@ -15,9 +15,11 @@ Using real industry data, we analyzed key factors driving churn and developed ac
 ## **Key Findings**  
 
 📊 **Customer Retention:**  
-- Out of **7,000+ customers**, **27% churned**, while **73% stayed** with the company.  
+- Out of **7,000+ customers**, **27% churned**, while **73% retainedd** with the company.
 
-💰 **Customer Payment Behavior:**  
+https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20Bar.png
+
+💰 **Customer Payment Behavior:** 
 - The **average monthly charge** was **$64.80**, with some customers paying up to **$118.75**.  
 
 📅 **Customer Tenure:**  
