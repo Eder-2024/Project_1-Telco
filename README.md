@@ -17,7 +17,7 @@ Using real industry data, we analyzed key factors driving churn and developed ac
 📊 **Customer Retention:**  
 - Out of **7,000+ customers**, **27% churned**, while **73% retainedd** with the company.
 
-Plot/ChurnDistribution.png
+https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/ChurnDistribution.png 
 
 💰 **Customer Payment Behavior:** 
 - The **average monthly charge** was **$64.80**, with some customers paying up to **$118.75**.  
@@ -53,6 +53,8 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 ✅ **H2: Month-to-Month Contracts Have Higher Churn**  
 - Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.  
 - **Pearson correlation (-0.95) supports this, though p > 0.05.**  
+
+
 
 ✅ **H3: Longer Tenure Leads to Lower Churn**  
 - Customers with **60–72 months tenure had the lowest churn**.  
