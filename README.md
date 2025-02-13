@@ -1,14 +1,14 @@
 # Telecom Customer Churn Analysis  
 
 ## **Introduction**  
-Ever heard the phrase *"irreconcilable differences"* in a divorce? Sounds fancy, but let’s be honest—someone just wasn’t happy!  
+Ever heard the phrase *"irreconcilable differences"* in a divorce? I am sure you have asthis is the common reason, but let’s be honest—someone just wasn’t happy!  
 
 Now, imagine that happening in telecom. Customers don’t always say, *"It’s not you, it’s me."* They just leave—no goodbye, no closure.  
 
 So, our team asked the big question:  
 **Why do customers suddenly cancel their telecom services?**  
 
-Using real industry data, we analyzed key factors driving churn and developed actionable recommendations for the executive team.  
+Using real industry data, we analyzed key factors driving churn and developed actionable recommendations for the Board.  
 
 ---
 
@@ -37,7 +37,7 @@ Using real industry data, we analyzed key factors driving churn and developed ac
 Encourage **yearly plans** with tiered pricing to improve retention and revenue.  
 
 ✨ **2 – Bundle Additional Services**  
-Offer **value-added services** (e.g., streaming, tech support) to increase stickiness.  
+Offer **value-added services** (e.g., streaming, tech support) to increase retention.  
 
 👨‍👩‍👧‍👦 **3 – Introduce Family & Senior Plans**  
 Launch **affordable family and senior citizen plans** to drive multi-line subscriptions and loyalty.  
