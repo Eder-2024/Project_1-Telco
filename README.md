@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis  
 
 ## **Introduction**  
-Ever heard the phrase *"irreconcilable differences"* in a divorce? I am sure you have asthis is the common reason, but let’s be honest—someone just wasn’t happy!  
+Ever heard the phrase *"irreconcilable differences"* in a divorce? I am sure you have as this is the common excuse used, but let’s be honest—someone just wasn’t happy!  
 
 Now, imagine that happening in telecom. Customers don’t always say, *"It’s not you, it’s me."* They just leave—no goodbye, no closure.  
 
