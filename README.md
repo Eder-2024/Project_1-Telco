@@ -123,7 +123,7 @@ Let’s turn **breakups into breakthroughs!** 🚀
 
 ## **💻Installation guide and usage instructions**
 ```
-Clone the repository
+#Clone the repository
 git clone https://github.com/Eder-2024/Project_1-Telco.git
 
 #Launch in Jupyter Notebook
