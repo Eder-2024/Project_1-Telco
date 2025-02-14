@@ -117,16 +117,25 @@ Let’s turn **breakups into breakthroughs!** 🚀
 ---
 
 ## **References** 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
 https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
 ChatGPT for code debugging when stuck
 
-## **Collaborators**
-1.	Demilade Adenuga
-2.	Geraldine Valencia
-3.	Eder Ortiz
+##**Installation guide and usage instructions**
+#Clone the repository
+git clone https://github.com/Eder-2024/Project_1-Telco.git
 
- 
+#Launch in Jupyter Notebook
+jupyter Main_Code.ipynb
+
+## **Collaborators**
+1.	Demilade Adenuga(In charge oof coding, developing visualizations, and writing summaries)
+2.	Geraldine Valencia(In charge of coding and generating visualizations)
+3.	Eder Ortiz(In charge oof coding, data cleaning, and generating visualizations)
+
+ ##**License**
+ Data files © Original Authors - BlastChar
 
 
