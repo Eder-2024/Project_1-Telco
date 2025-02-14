@@ -97,16 +97,6 @@ The results revealed a positive correlation, indicating that as monthly charges 
 
 ---
 
-## **🔧Methods & Tools Used**  
-
-- **Data Aggregation:** `groupby`, `value_counts`  
-- **Visualizations:** Pie Charts, Bar Charts, Stacked Columns  
-- **Statistical Tests:** Chi-Square Test, Pearson Correlation  
-- **Feature Engineering:** Tenure binning, Heatmaps  
-- **Tools:** Python (Pandas, Matplotlib), Jupyter Notebook  
-
----
-
 ## **🔍Conclusion**  
 
 By analyzing churn drivers, we identified key strategies to improve retention.  
@@ -116,12 +106,13 @@ Let’s turn **breakups into breakthroughs!** 🚀
 
 ---
 
-## **📚References** 
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
-https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
-Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
-ChatGPT for code debugging when stuck
+## **🔧Methods & Tools Used**  
+
+- **Data Aggregation:** `groupby`, `value_counts`  
+- **Visualizations:** Pie Charts, Bar Charts, Stacked Columns  
+- **Statistical Tests:** Chi-Square Test, Pearson Correlation  
+- **Feature Engineering:** Tenure binning, Heatmaps  
+- **Tools:** Python (Pandas, Matplotlib), Jupyter Notebook  
 
 ---
 
@@ -133,6 +124,15 @@ git clone https://github.com/Eder-2024/Project_1-Telco.git
 #Launch in Jupyter Notebook
 jupyter Main_Code Main_Code.ipynb
 ```
+
+---
+
+## **📚References** 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
+https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
+Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
+ChatGPT for code debugging when stuck
 
 ---
 
