@@ -51,7 +51,8 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 - **Chi-Square test confirmed** a significant correlation (p < 0.05).  
 
 ✅ **H2: Month-to-Month Contracts Have Higher Churn**  
-- Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.  
+- Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.
+- Churn rate:   **monthly contract - 42.7% , one year contract - 11.2%,  two year contract -2.8%**. 
 - **Pearson correlation (-0.95) supports this, though p > 0.05.**  
 
 ![Contract Type Churn Rate](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Contract%20Type%20Churn%20Rate.png)
@@ -73,7 +74,9 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 ![Churn Proportion Bar](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20Bar.png)
 
 ✅ **H5: Customers with Dependents & Partners Have Lower Churn**  
+- **Churn rate for customers with family is 19.9% compared to 34.2% without family**.
 - **Family-oriented customers churn less**, though results were **not statistically significant** (p = 1.0).
+
 
 ![Family Churn Rate](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Family%20Churn%20Rate.png) 
 
@@ -122,7 +125,7 @@ ChatGPT for code debugging when stuck
 ## **Collaborators**
 1.	Demilade Adenuga
 2.	Geraldine Valencia
-3.	Geraldine Valencia
+3.	Eder Ortiz
 
  
 
