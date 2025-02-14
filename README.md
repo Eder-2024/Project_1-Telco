@@ -129,7 +129,7 @@ Clone the repository
 git clone https://github.com/Eder-2024/Project_1-Telco.git
 
 #Launch in Jupyter Notebook
-jupyter Main_Code.ipynb
+jupyter Main_Code Main_Code.ipynb
 ```
 
 ## **Collaborators**
