@@ -51,8 +51,8 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 - **Chi-Square test confirmed** a significant correlation (p < 0.05).  
 
 ✅ **H2: Month-to-Month Contracts Have Higher Churn**  
-- Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.
 - Churn rate:   **monthly contract - 42.7% , one year contract - 11.2%,  two year contract -2.8%**. 
+- Customers with **monthly contracts churned significantly more** than those on **long-term contracts**.
 - **Pearson correlation (-0.95) supports this, though p > 0.05.**  
 
 ![Contract Type Churn Rate](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Contract%20Type%20Churn%20Rate.png)
