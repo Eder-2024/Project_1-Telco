@@ -106,6 +106,11 @@ Let’s turn **breakups into breakthroughs!** 🚀
 
 ---
 
+
+📝 Note: While the findings provide valuable insights, the dataset of over 7,000 customers may not fully represent the broader customer base. It doesn’t account for factors like geography, income, or service plans, and the analysis is based on a specific time period, making it less generalizable. Additionally, customer behavior may fluctuate over time, and external factors such as market conditions or competition are not considered, which could impact churn in ways not reflected in the data.
+
+---
+
 ## **🔧Methods & Tools Used**  
 
 - **Data Aggregation:** `groupby`, `value_counts`  
@@ -131,7 +136,6 @@ jupyter Main_Code Main_Code.ipynb
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
 https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
-
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
 ChatGPT for code debugging when stuck
 
