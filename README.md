@@ -123,12 +123,13 @@ https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
 ChatGPT for code debugging when stuck
 
-##**Installation guide and usage instructions**
-#Clone the repository
+```**Installation guide and usage instructions**
+Clone the repository
 git clone https://github.com/Eder-2024/Project_1-Telco.git
 
 #Launch in Jupyter Notebook
 jupyter Main_Code.ipynb
+```
 
 ## **Collaborators**
 1.	Demilade Adenuga(In charge oof coding, developing visualizations, and writing summaries)
