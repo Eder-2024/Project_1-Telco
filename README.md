@@ -74,7 +74,7 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 ![Churn Proportion Bar](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Churn%20Proportion%20Bar.png)
 
 ✅ **H5: Customers with Dependents & Partners Have Lower Churn**  
-- **Churn rate for customers with family is 19.9% compared to 34.2% without family**.
+-   Churn rate for **customers with family** is 19.9% compared to 34.2% **without family**.
 - **Family-oriented customers churn less**, though results were **not statistically significant** (p = 1.0).
 
 
