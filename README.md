@@ -87,7 +87,7 @@ Launch **affordable family and senior citizen plans** to drive multi-line subscr
 ![Number of Additional ervices vs. Churn](https://github.com/Eder-2024/Project_1-Telco/blob/main/Plot/Number%20of%20Additional%20Services%20vs%20Churn.png)
 ---
 
-## **Additional Analysis - Bonus** 
+🌟## **Additional Analysis - Bonus** 
 We conducted a correlation heatmap analysis of monthly charges, total charges, and tenure. 
 The results revealed a positive correlation, indicating that as monthly charges and tenure increase, total charges also rise.
 
@@ -97,7 +97,7 @@ The results revealed a positive correlation, indicating that as monthly charges 
 
 ---
 
-## **Methods & Tools Used**  
+🔧## **Methods & Tools Used**  
 
 - **Data Aggregation:** `groupby`, `value_counts`  
 - **Visualizations:** Pie Charts, Bar Charts, Stacked Columns  
@@ -107,7 +107,7 @@ The results revealed a positive correlation, indicating that as monthly charges 
 
 ---
 
-## **Conclusion**  
+🔍## **Conclusion**  
 
 By analyzing churn drivers, we identified key strategies to improve retention.  
 **Longer contracts, bundled services, and family-friendly plans** can significantly reduce churn and boost revenue.  
@@ -116,14 +116,14 @@ Let’s turn **breakups into breakthroughs!** 🚀
 
 ---
 
-## **References** 
+📚## **References** 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
 https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
 Bootcamp: UTOR-VIRT-DATA-PT-12-2024-U-LOLC-MTTHXpert Learning Assistant Chat+
 ChatGPT for code debugging when stuck
 
-## **Installation guide and usage instructions**
+💻## **Installation guide and usage instructions**
 ```
 Clone the repository
 git clone https://github.com/Eder-2024/Project_1-Telco.git
@@ -132,12 +132,12 @@ git clone https://github.com/Eder-2024/Project_1-Telco.git
 jupyter Main_Code Main_Code.ipynb
 ```
 
-## **Collaborators**
+👥## **Collaborators**
 1.	Demilade Adenuga(In charge oof coding, developing visualizations, and writing summaries)
 2.	Geraldine Valencia(In charge of coding and generating visualizations)
 3.	Eder Ortiz(In charge oof coding, data cleaning, and generating visualizations)
 
- ## **License**
+ 🛡️## **License**
  Data files © Original Authors - BlastChar
 
 
