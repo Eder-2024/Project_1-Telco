@@ -137,9 +137,9 @@ ChatGPT for code debugging when stuck
 ---
 
 ## **👥Collaborators**
-1.	Demilade Adenuga(In charge oof coding, developing visualizations, and writing summaries)
+1.	Demilade Adenuga(In charge of coding, developing visualizations, and writing summaries)
 2.	Geraldine Valencia(In charge of coding and generating visualizations)
-3.	Eder Ortiz(In charge oof coding, data cleaning, and generating visualizations)
+3.	Eder Ortiz(In charge of coding, data cleaning, and generating visualizations)
 
 ---
 
